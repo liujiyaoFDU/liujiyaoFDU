@@ -4,9 +4,9 @@ Hi there 👋
 
 👨‍🎓Research interests
 
-☆ AI in medical imaging; Computer vision
+☆ AI in medical imaging;
 
-☆ MRI reconstruction; Super resolution
+☆ Generative model, MRI reconstruction
 
 📫 How to contact with me: liujy22@m.fudan.edu.cn
 
