@@ -8,3 +8,5 @@
 ☆ AI in medical imaging; Generative model; MRI reconstruction
 
 📫 How to contact with me: liujy22@m.fudan.edu.cn
+
+- 🍱 我的知乎（Zhihu） https://www.zhihu.com/people/zhi-shi-zhi-zhong-97-31
