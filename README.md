@@ -1,7 +1,7 @@
 ![](https://picx.zhimg.com/v2-19c81401b0b538ae313c8b8a1082c4f7_1440w.jpg?source=32738c0c)
 🔭 I'm Jiyao Liu, currently a Ph.D. student at [ZMIC group](https://zmiclab.github.io/zxh/), [Institute of Science and Technology for Brain-Inspired Intelligence](https://istbi.fudan.edu.cn/), Fudan University, supervised by Prof. Dr. [Xiahai Zhuang](https://scholar.google.co.uk/citations?user=XlavIMcAAAAJ&hl=en) and [Dr. Ningsheng Xu](https://en.wikipedia.org/wiki/Xu_Ningsheng).
 
-[Home Page](https://liujiyaofdu.github.io/jy-stdio.github.io/) | [Zhihu](https://www.zhihu.com/people/zhi-shi-zhi-zhong-97-31) | 
+ [Zhihu](https://www.zhihu.com/people/zhi-shi-zhi-zhong-97-31) | 
 
 👨‍🎓Research interests
 
